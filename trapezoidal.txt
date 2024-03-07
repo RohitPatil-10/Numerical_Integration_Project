@@ -1,0 +1,22 @@
+						1. TRAPEZOIDAL RULE
+
+				 Introduction :-
+
+					In mathematics, the trapezoid rule is a numerical integration
+				method, that is, a method to calculate approximately the
+				value of the definite integral.
+				The rule is based on approximating the value of the integral
+				of f (x) by that of the linear function that passes through the
+				points (a, f (a)) and (b, f (b)). The integral of this is equal to
+				the area of the trapezoid under the graph of the linear
+				function.
+
+				 Application :-
+
+					The integrals have many applications in real life,
+				from measuring the volume of a container, and
+				different applications in speed. Another use of
+				integrals is for economic studies.
+
+				 General formula of trapezoidal method :-
+				f(x)=[(y0+yn)+2(y1+y2+y3+y4+…+yn-1)]

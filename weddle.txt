@@ -1,0 +1,16 @@
+						4. WEDDLE’S RULE
+
+				 Introction :-
+				 	 Since we take n = 6 means f(x) can be approximated by a
+				polynomial of 6th degree so that seventh and higher order
+				differences are vanishes in the Newton Cote’s formula.Let
+				the values of a function f(x) be tabulated at points xi
+				equally spaced by h= xi+1- xi so the f1=f(x1),f2=f(x2),… .
+				Then Weddle’s rule approximating the integral of f(x) is
+				given by putting n = 6 in the Newton Cote’s formula. For
+				Weddle’s rule the number of subinterval should be taken as
+				multiple of 6.
+
+				 General formula :-
+
+				f(x)=[y0+5(y1)+y2+6(y3)+y4+5(y5)+y6]

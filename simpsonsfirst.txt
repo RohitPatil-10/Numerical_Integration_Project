@@ -1,0 +1,25 @@
+					2. SIMPSON’S rd RULE
+
+				 Introduction :-
+					Simpson’s rule is one of the numerical methods
+				which is used to evaluate the definite integral.
+				Usually, to find the definite integral, we use the
+				fundamental theorem of calculus, where we haveto
+				apply the antiderivative techniques of integration. But
+				sometimes it is difficult to find theantiderivative of
+				an integral, like in the case of Scientific Experiments,
+				where the function hasto be determined from the
+				observed readings. Therefore, the numerical methods
+				are used to approximatethe integral in such
+				conditions. Other numerical methods used are
+				trapezoidal rule, midpoint rule, Here, we are going to
+				discuss Simpson’s rule formula, 1/3 rd rule.
+
+				 Application :-
+					It is used when it is very difficult to solve the given
+				integral mathematically.This rule gives approximation easily without actually
+				knowing the integration rules.
+
+				 General formula :-
+
+				f(x)=[(y0+yn)+4(y2+y4+...)+2(y1+y3+…)]

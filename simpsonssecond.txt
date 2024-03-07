@@ -1,0 +1,17 @@
+					3. SIMPSON’S th RULE
+
+				 Introduction :-
+					Another method of numerical integration method
+				called “Simpson’s 3/8 rule”. It is completely based on
+				the cubic interpolation rather than the quadratic
+				interpolation. This rule quite more accurate than the
+				standard method, as it uses one more functional
+				value. For 3/8 rule, the composite Simpson’s 3/8 rule
+				also exists which is similar to the generalized form.
+				The 3/8 rule is known as Simpson’s second rule of
+				integration.
+
+
+				 General formula :-
+
+				f(x)=[(y0+yn)+3(y1+y2+y4+…)+2(y3+y6+…)]
